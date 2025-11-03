@@ -50,7 +50,6 @@ npm install
 PORT=3000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
-CLIENT_URL=http://localhost:5173
 ```
 
 5️⃣ Start the backend server
@@ -71,16 +70,9 @@ cd ../front
 npm install
 ```
 
-8️⃣ Create an .env file in /frontend directory
-VITE_API_URL=http://localhost:5000/api
-
-9️⃣ Start the frontend development server
+8️⃣ Start the frontend development server
 ```bash
 npm run dev
 ```
 
 App runs at http://localhost:5173
-
- 
-
-
