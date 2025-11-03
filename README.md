@@ -37,7 +37,9 @@ cd expense-tracker
 ```
 ⚙️ Backend Setup
 2️⃣ Navigate to backend folder
-cd backend
+```bash
+cd back
+```
 
 3️⃣ Install dependencies
 ```bash
@@ -61,7 +63,7 @@ Server will start at http://localhost:3000
 💻 Frontend Setup
 6️⃣ Navigate to frontend folder
 ```bash
-cd ../frontend
+cd ../front
 ```
 
 7️⃣ Install dependencies
@@ -80,4 +82,5 @@ npm run dev
 App runs at http://localhost:5173
 
  
+
 
